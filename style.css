@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(54, 74, 94);
+    background-color: bisque;
     font-family: 'Times New Roman', Times, serif;
 
 
 
 }
 h1{
-    color: azure;
+    color: rgb(32, 29, 53);
     letter-spacing: 2px;
     text-decoration: underline;
 }
