@@ -12,11 +12,19 @@ h1{
 header{
     width: 100%;
     background-color: gold;
-    height: 200px;
+    height: 100px;
     padding: 20px;
     color: black;
     text-align: center;
     font-family: 900;
+
+
+}
+nav{
+    width: 100%;
+    background: #E9BA83;
+    height: 40px;
+    padding: 10px;
 
 
 }
