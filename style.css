@@ -23,8 +23,15 @@ header{
 nav{
     width: 100%;
     background: #E9BA83;
-    height: 40px;
+    height: 20px;
     padding: 10px;
 
+}
+
+aside{
+    width: 300px;
+    background:burlywood;
+    height: 500px;
+    float: 10px;
 
 }
