@@ -6,4 +6,15 @@ h1{
     color: #E9BA83;
     letter-spacing: 2px;
     text-decoration: underline;
+
+}
+
+header{
+    width: 100%;
+    background-color: gold;
+    height: 200px;
+    padding: 20px;
+    
+
+
 }
