@@ -3,8 +3,22 @@
 
 table{
     border:1px khaki;
+    width: 100%;
+    background: grey;
+
+}
 
 
+td{ 
+    border:1px black;
+    background: white;
+
+}
+
+thead, tfoot{
+    background: black;
+    color: white;
+    width: 100;
 
 }
 
