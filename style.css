@@ -1,5 +1,5 @@
 body {
-    background-color: #5E5ADB;
+    background-color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
 }
 h1{
@@ -18,21 +18,51 @@ header{
     text-align: center;
     font-family: 900;
     font-weight: bold;
+    font-size: x-large;
+
 
 
 }
 nav{
     width: 100%;
-    background: #E9BA83;
+    background: goldenrod;
     height: 20px;
     padding: 10px;
+    font-family: 900;
+    font-weight: bold;
 
 }
 
 aside{
     width: 300px;
-    background:burlywood;
-    height: 500px;
+    background:rgb(233, 223, 169);
+    height: 600px;
     float: 10px;
+    font-family: 900;
+    font-weight: bold;
+
+}
+
+article{
+    width: 100px;
+    float: left;
+    background:rgb(233, 223, 169);
+
+}
+
+section{
+    background: #ffffff;
+    padding: 20px;
+
+}
+
+footer{
+    clear: both;
+    display: block;
+    background: lightblue;
+    padding: 20px;
+    text-align: center;
+    
+
 
 }
