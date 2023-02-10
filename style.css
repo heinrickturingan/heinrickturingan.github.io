@@ -12,3 +12,11 @@ td{
     border: 1px solid black;
     padding: 1px'
 }
+
+img{
+    border:5px solid black
+
+}
+h1, h2, h3, h4, h5, h6{
+    color:blue
+}
