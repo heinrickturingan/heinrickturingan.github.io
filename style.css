@@ -14,9 +14,9 @@ td{
 }
 
 img{
-    border:5px solid black;
-    max-width: 25%;
-
+    border:5px aquamarine;
+    max-width: 50%;
+    
 }
 h1, h2, h3, h4, h5, h6{
     color:blue
