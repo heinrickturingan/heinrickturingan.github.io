@@ -14,9 +14,14 @@ td{
 }
 
 img{
-    border:5px solid black
+    border:5px solid black;
+    max-width: 10%;
 
 }
 h1, h2, h3, h4, h5, h6{
     color:blue
+}
+
+a{
+    color:darkblue
 }
